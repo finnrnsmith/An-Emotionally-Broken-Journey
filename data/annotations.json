@@ -1,8 +1,8 @@
 {
   "_instructions": "Add your thoughts in the fields below. Each key matches a node or edge ID from graph.json. Set 'finn_thoughts' to any string. Redeploy to GitHub Pages to see them in the visualization.",
   "nodes": {
-    "lorde": { "finn_thoughts": "" },
-    "jack": { "finn_thoughts": "" },
+    "lorde": { "finn_thoughts": "I had no idea she was from New Zealand (or Croatia for that matter), I always assumed she was American. Interesting that she was capable of reading 40,000 words of pure academia at only 14 years old, very impressive really." },
+    "jack": { "finn_thoughts": "Just not very hot really, quite surprised he's managed to be part of so much drama." },
     "lena": { "finn_thoughts": "" },
     "james": { "finn_thoughts": "" },
     "taylor": { "finn_thoughts": "" },
