@@ -11,11 +11,11 @@
         "Age: 21 at time of Melodrama",
         "From: New Zealand (dual NZ/Croatian citizenship)",
         "Debut album: Pure Heroine (2013)",
-        "Mom: Sonja Yelich (Cool Mom™)",
+        "Mom: Sonja Yelich (Cool Mom\u2122)",
         "Loves: pineapple juice",
         "\"recently participated in a birth\" as one does",
         "Decision-making skills: questionable",
-        "Her mother proofread her 40,000 word master's thesis"
+        "Proofread her mum Sonja's 40,000 word master's thesis at age 14"
       ]
     },
     {
@@ -96,11 +96,11 @@
       "category": "person",
       "subcategory": "family",
       "fullName": "Sonja Yelich",
-      "description": "Lorde's mom. Cool Mom. Proofread her daughter's 40,000 word master's thesis. Was cool with Lorde dating a 24-year-old at 16. She spells it with a sexy unique J.",
+      "description": "Lorde's mum. Cool Mom. Had 14-year-old Lorde proofread Sonja's own 40,000 word master's thesis. Was also cool with Lorde dating a 24-year-old at 16. She spells it with a sexy unique J.",
       "details": [
         "Relation: Lorde's mother",
-        "Status: Cool Mom™",
-        "Skills: proofreading 40k word theses",
+        "Status: Cool Mom\u2122",
+        "Achievement: had her 14-year-old daughter proofread her own 40k-word master's thesis",
         "Parenting style: extremely permissive re: age gaps",
         "Name spelling: Sonja (sexy unique J)"
       ]
@@ -128,13 +128,14 @@
       "description": "Lorde's second album. Officially: a concept album about a house party exploring solitude after a breakup. Actually: a detailed diary of falling for your producer while living in his apartment with his girlfriend. Released June 2017.",
       "details": [
         "Released: June 2017",
-        "Recorded: July 2015 – January 2017",
+        "Recorded: July 2015 \u2013 January 2017",
         "Location: Jack Antonoff's home studio, Brooklyn",
         "Official story: breakup album / house party concept",
         "Real story: you are reading it",
         "Produced by: Jack Antonoff (almost entirely)",
         "Label: Universal Music NZ / Republic"
-      ]
+      ],
+      "spotify": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
     },
     {
       "id": "pure_heroine",
@@ -149,22 +150,24 @@
         "Included: Royals, Tennis Court",
         "Produced by: Joel Little",
         "Certified: many times platinum worldwide"
-      ]
+      ],
+      "spotify": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
     },
     {
       "id": "_1989",
       "label": "1989",
       "category": "album",
       "subcategory": "album",
-      "fullName": "1989 — Taylor Swift (2014)",
-      "description": "Taylor Swift's album on which Jack co-wrote 4 songs. This is how Jack ended up in Lorde's orbit — Taylor introduced them at a Grammy party. Or they met at a Grimes show. Conflicting reports.",
+      "fullName": "1989 \u2014 Taylor Swift (2014)",
+      "description": "Taylor Swift's album on which Jack co-wrote 4 songs. This is how Jack ended up in Lorde's orbit \u2014 Taylor introduced them at a Grammy party. Or they met at a Grimes show. Conflicting reports.",
       "details": [
         "Released: 2014",
         "Artist: Taylor Swift",
         "Jack's contribution: co-wrote 4 songs",
         "Relevance: Jack's connection to Taylor's squad",
         "Led to: Lorde meeting Jack (one possible account)"
-      ]
+      ],
+      "spotify": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
     },
     {
       "id": "bleachers",
@@ -185,7 +188,7 @@
       "label": "Green Light",
       "category": "song",
       "subcategory": "song",
-      "fullName": "Green Light — Melodrama",
+      "fullName": "Green Light \u2014 Melodrama",
       "description": "The \"first chapter\" of the 2015-2017 era. Inspired at a Florence + the Machine concert Lorde attended with Jack. Took 18 months to write. The song where she's waiting to get her green light. Lena does not get a pineapple juice in this metaphor.",
       "details": [
         "Inspired by: Florence + the Machine concert (with Jack)",
@@ -194,14 +197,15 @@
         "Actually: Lorde opening Lorde's eyes (BARF)",
         "Piano line inspired by: Florence show lights",
         "\"first chapter\" of the Melodrama era"
-      ]
+      ],
+      "spotify": "https://open.spotify.com/track/64E3ELRApb9HEpHGGikfmo"
     },
     {
       "id": "sober",
       "label": "Sober",
       "category": "song",
       "subcategory": "song",
-      "fullName": "Sober — Melodrama",
+      "fullName": "Sober \u2014 Melodrama",
       "description": "\"Inspired by lord & jack's coachella trip??? Like LOL\". The one about being King and Queen of the weekend when sober isn't an option. \"But my hips have missed your hips.\" Presented without comment.",
       "details": [
         "Suspected inspiration: Lorde & Jack's Coachella trip",
@@ -210,15 +214,16 @@
         "Key lyric: \"We pretend that we just don't care\"",
         "Awkward factor: 10/10 given Lena situation",
         "Presented without comment"
-      ]
+      ],
+      "spotify": "https://open.spotify.com/track/1PCmXXXSOAbWddNxsCsxd4"
     },
     {
       "id": "the_louvre",
       "label": "The Louvre",
       "category": "song",
       "subcategory": "song",
-      "fullName": "The Louvre — Melodrama",
-      "description": "\"They'll hang us in the Louvre / down the back, but who cares – still the Louvre.\" A song about obsessive, world-consuming love. The \"summer\" is a recurring symbol — the summer Lena was gone, the summer that happened. \"We banged all summer.\" Sub-text, allegedly.",
+      "fullName": "The Louvre \u2014 Melodrama",
+      "description": "\"They'll hang us in the Louvre / down the back, but who cares \u2013 still the Louvre.\" A song about obsessive, world-consuming love. The \"summer\" is a recurring symbol \u2014 the summer Lena was gone, the summer that happened. \"We banged all summer.\" Sub-text, allegedly.",
       "details": [
         "Key lyric: \"They'll hang us in the Louvre\"",
         "Key lyric: \"We banged all summer\" (yes really)",
@@ -226,14 +231,15 @@
         "\"Summer\" = recurring symbol in Melodrama",
         "Suspected subject: Jack",
         "Note: Lorde & Taylor no longer friends. Lorde & Lena no longer friends. Do the math."
-      ]
+      ],
+      "spotify": "https://open.spotify.com/track/30sh6rnz0cfL1KwQLEOPy9"
     },
     {
       "id": "liability",
       "label": "Liability",
       "category": "song",
       "subcategory": "song",
-      "fullName": "Liability — Melodrama",
+      "fullName": "Liability \u2014 Melodrama",
       "description": "\"Baby really hurt me, crying to the bar.\" The devastating one. \"The truth is I am a toy that people enjoy / till all of the tricks don't work anymore.\" Lena comes back from the summer campaigning, this has gotten too big, Jack gets cold feet and possessive.",
       "details": [
         "Key lyric: \"Baby really hurt me, crying to the bar\"",
@@ -242,14 +248,15 @@
         "Context: Lena returns, things get complicated",
         "Mood: devastating",
         "Presented: without comment"
-      ]
+      ],
+      "spotify": "https://open.spotify.com/track/0iChCqoD3AJXtSTKmGdyQH"
     },
     {
       "id": "hard_feelings",
       "label": "Hard Feelings / Loveless",
       "category": "song",
       "subcategory": "song",
-      "fullName": "Hard Feelings / Loveless — Melodrama",
+      "fullName": "Hard Feelings / Loveless \u2014 Melodrama",
       "description": "The speed-dating-producers quote comes from this era. \"I was basically speed-dating different producers and songwriters in LA and hating it. And then I walked into a room with Jack Antonoff and just felt like home.\" Hard feelings, obviously.",
       "details": [
         "Quote: \"speed-dating different producers... walked into a room with Jack and felt like home\"",
@@ -258,14 +265,15 @@
         "Loveless: the bitter counterpart",
         "Suspected: end of the Lorde/Jack situation",
         "And then we get loveless, which is... a lot"
-      ]
+      ],
+      "spotify": "https://open.spotify.com/track/1Dp7JGFNjvg8Nk0CtMCcnr"
     },
     {
       "id": "writer_in_dark",
       "label": "Writer in the Dark",
       "category": "song",
       "subcategory": "song",
-      "fullName": "Writer in the Dark — Melodrama",
+      "fullName": "Writer in the Dark \u2014 Melodrama",
       "description": "Written while sleeping next to someone while Lena slept. \"I woke up in the middle of the night and was lying next to someone. And I wrote it down on my phone and I was like, 'Oh God, I feel so naughty writing this.' While somebody's sleeping, like an evil witch.\" Summer 16 is over, Lena done campaigning, Lorde trying to accept Jack isn't leaving Lena.",
       "details": [
         "Written: in secret, next to someone, while Lena slept",
@@ -274,15 +282,16 @@
         "Key lyric: \"I'll find a way to be without you, babe\"",
         "Context: summer 16 ending, Lena back, Jack not leaving",
         "Lorde: \"like an evil witch\""
-      ]
+      ],
+      "spotify": "https://open.spotify.com/track/193Dm5SqYy3hTSbuzxbwKc"
     },
     {
       "id": "sober_ii",
       "label": "Sober II (Melodrama)",
       "category": "song",
       "subcategory": "song",
-      "fullName": "Sober II (Melodrama) — Melodrama",
-      "description": "Written in April 2016 — Sober and this song came around the same time. Lorde had \"conflicted feelings\" about it. The album-within-the-album that gives Melodrama its name. \"I miss Melodrama. I miss you too.\"",
+      "fullName": "Sober II (Melodrama) \u2014 Melodrama",
+      "description": "Written in April 2016 \u2014 Sober and this song came around the same time. Lorde had \"conflicted feelings\" about it. The album-within-the-album that gives Melodrama its name. \"I miss Melodrama. I miss you too.\"",
       "details": [
         "Written: April 2016 (with Sober)",
         "Context: Lena back from 18-month campaign, things changing",
@@ -290,7 +299,8 @@
         "Key lyric: \"I miss Melodrama\"",
         "Key lyric: \"I miss you too\"",
         "The album's self-aware moment"
-      ]
+      ],
+      "spotify": "https://open.spotify.com/track/54ucfuN596MU25jQD3KjCL"
     },
     {
       "id": "grammy_2014",
@@ -313,7 +323,7 @@
       "category": "event",
       "subcategory": "event",
       "fullName": "Coachella, April 2016",
-      "description": "Lorde and Jack went to Coachella together. This is when Lorde had her epiphany about what Melodrama was supposed to be — centred around Sober & Sober II. Sober is \"inspired by lord & jack's coachella trip???\" according to the author.",
+      "description": "Lorde and Jack went to Coachella together. This is when Lorde had her epiphany about what Melodrama was supposed to be \u2014 centred around Sober & Sober II. Sober is \"inspired by lord & jack's coachella trip???\" according to the author.",
       "details": [
         "Date: April 2016",
         "Attendees: Lorde and Jack",
@@ -329,7 +339,7 @@
       "category": "event",
       "subcategory": "event",
       "fullName": "Saturday Night Live, March 11 2017",
-      "description": "Lorde performed Green Light and Liability on SNL wearing a wedding dress, with Jack accompanying on piano — leaning back to back. \"I wasn't fucking joking about the wedding dress on SNL. I will never get over this.\" Neither will we.",
+      "description": "Lorde performed Green Light and Liability on SNL wearing a wedding dress, with Jack accompanying on piano \u2014 leaning back to back. \"I wasn't fucking joking about the wedding dress on SNL. I will never get over this.\" Neither will we.",
       "details": [
         "Date: March 11, 2017",
         "Performance: Green Light + Liability",
@@ -340,6 +350,65 @@
         "Lena watching: presumably",
         "Author reaction: INTERVENTION!!!!"
       ]
+    },
+    {
+      "id": "kanye",
+      "label": "Kanye West",
+      "category": "person",
+      "subcategory": "connection",
+      "fullName": "Kanye West (Ye)",
+      "description": "Mutual fan of Lorde. They are fans of each other, which is notable. Also a one-sided enemy of Taylor Swift \u2014 he hates her deeply; she doesn't think about him.",
+      "details": [
+        "Mutual fan: Lorde (reciprocated)",
+        "One-sided feud: Taylor Swift (he hates her; she doesn't think about him)",
+        "General vibe: chaotic neutral at best"
+      ]
+    },
+    {
+      "id": "hillary",
+      "label": "Hillary Clinton",
+      "category": "person",
+      "subcategory": "politician",
+      "fullName": "Hillary Rodham Clinton",
+      "description": "2016 Democratic presidential candidate. Lost the election partly because her campaign worker Lena Dunham was too emotionally compromised to focus \u2014 owing to what was happening in her own apartment. Mutual enemy of Donald Trump. Enemy of Lorde, who indirectly sabotaged her campaign.",
+      "details": [
+        "Role: 2016 Democratic presidential candidate",
+        "Campaign worker: Lena Dunham (18 months)",
+        "Why she lost: Lorde and Jack were too busy being shady in Lena's apartment",
+        "Enemy: Donald Trump",
+        "Enemy: Lorde (indirect sabotage via Lena)"
+      ]
+    },
+    {
+      "id": "trump",
+      "label": "Donald Trump",
+      "category": "person",
+      "subcategory": "politician",
+      "fullName": "Donald J. Trump",
+      "description": "45th and 47th President of the United States. Won the 2016 election in part because Lena Dunham \u2014 who worked on Hillary Clinton's campaign for 18 months \u2014 was too distracted by what was happening in her own apartment to be effective. Mutual enemy of Hillary Clinton and Lena Dunham.",
+      "details": [
+        "Role: 45th & 47th US President",
+        "Won: 2016 election",
+        "How: Lorde and Jack Antonoff distracted his opponent's key campaign worker",
+        "Enemy: Hillary Clinton",
+        "Enemy: Lena Dunham",
+        "Indirectly enabled by: Lorde and Jack Antonoff"
+      ]
+    },
+    {
+      "id": "pineapple_juice",
+      "label": "Pineapple Juice",
+      "category": "object",
+      "subcategory": "symbol",
+      "fullName": "A Can of Pineapple Juice",
+      "description": "The original weapon of seduction. Jack got Lorde a can of pineapple juice when they first met, and she felt like she was home. This one beverage set off a chain of events that produced Melodrama, ended Jack and Lena's five-year relationship, distracted a presidential campaign, and may have cost Hillary Clinton the 2016 election.",
+      "details": [
+        "First appeared: Grammy party 2014 (or Grimes show, conflicting reports)",
+        "Wielded by: Jack Antonoff",
+        "Effect on Lorde: felt immediately at home",
+        "Downstream consequences: Melodrama, one broken relationship, one broken presidency",
+        "Enemy of: Lena Dunham (took her man)"
+      ]
     }
   ],
   "edges": [
@@ -348,10 +417,10 @@
       "source": "lorde",
       "target": "jack",
       "relationship": "collaborated & suspected romantic",
-      "label": "collaborated / 💀",
+      "label": "collaborated / \ud83d\udc80",
       "description": "Co-wrote and produced Melodrama together over 18 months. The collaboration that spawned an entire album's worth of evidence. \"We were just obsessed with each other.\" Jack was 34. Lorde was 21. They recorded in the apartment he shared with his girlfriend.",
       "details": [
-        "Duration: July 2015 – January 2017",
+        "Duration: July 2015 \u2013 January 2017",
         "Location: Jack's home studio in Brooklyn (his and Lena's apartment)",
         "Quote: \"We were just obsessed with each other\"",
         "Quote: \"I walked into a room with Jack and just felt like home\"",
@@ -365,29 +434,29 @@
       "target": "lena",
       "relationship": "romantic",
       "label": "dated 5 years",
-      "description": "Jack and Lena dated for 5 years and lived together in Brooklyn. Lorde recorded Melodrama in their apartment. They publicly broke up in December 2017 — six months after the album dropped.",
+      "description": "Jack and Lena dated for 5 years and lived together in Brooklyn \u2014 the same apartment where he recorded Melodrama with Lorde. Jack cheated on Lena with Lorde. They publicly split in December 2017, six months after the album dropped.",
       "details": [
-        "Duration: ~2012 – December 2017",
+        "Duration: ~2012 \u2013 December 2017",
         "Living: together in Brooklyn",
         "Their apartment: Melodrama's recording studio",
-        "Breakup: December 2017, \"slowly breaking up for 6 months\"",
-        "Lena quote: watching Jack at Lorde's Brooklyn show",
-        "Timing: suspiciously post-Melodrama"
+        "What happened: Jack cheated with Lorde",
+        "Breakup: December 2017",
+        "Timing: suspiciously post-Melodrama release"
       ]
     },
     {
       "id": "lorde-lena-friendship",
       "source": "lorde",
       "target": "lena",
-      "relationship": "friendship",
-      "label": "friends / roommate",
-      "description": "Lorde and Lena were friends before either of them knew Jack — they'd been \"talking online.\" Lorde moved into their Brooklyn apartment for extended recording sessions. Lena \"lent emotional, if not material, sustenance.\" Their friendship did not survive whatever this was.",
+      "relationship": "former friends / enemies",
+      "label": "former friends \u2192 enemies",
+      "description": "Were close friends before any of this \u2014 they'd been talking online before either knew Jack. Lorde lived in their apartment. Lena lent emotional sustenance. Then Jack cheated on Lena with Lorde. Their friendship did not survive. They are now enemies.",
       "details": [
-        "Met: online, before knowing Jack",
-        "Lorde lived: in their apartment during recording",
-        "Lena's role: emotional support, food, sustenance",
-        "Current status: no longer friends (obviously)",
-        "The audacity scale: 10/10"
+        "Were: genuinely close friends",
+        "How it ended: Jack cheated on Lena with Lorde",
+        "The irony: Lena literally let Lorde live in her home",
+        "Current status: enemies",
+        "The audacity scale: off the charts"
       ]
     },
     {
@@ -395,10 +464,10 @@
       "source": "lorde",
       "target": "james",
       "relationship": "ex-romantic",
-      "label": "ex (2013–2015)",
+      "label": "ex (2013\u20132015)",
       "description": "Lorde's long-term boyfriend before all of this. They met when she was ~16 and he was ~24 (a choice). Broke up in 2015. The official press narrative is that Melodrama is his breakup album. Reader, it is not his breakup album.",
       "details": [
-        "Dating: ~2013 – 2015",
+        "Dating: ~2013 \u2013 2015",
         "Age at start: Lorde ~16, James ~24",
         "Breakup: 2015",
         "Green Light: officially about this breakup",
@@ -444,7 +513,7 @@
       "target": "taylor",
       "relationship": "collaborated",
       "label": "co-wrote 1989",
-      "description": "Jack co-wrote 4 songs on Taylor Swift's 1989. This is how he ended up in Lorde's orbit — one account says Taylor introduced them at a Grammy party in 2014.",
+      "description": "Jack co-wrote 4 songs on Taylor Swift's 1989. This is how he ended up in Lorde's orbit \u2014 one account says Taylor introduced them at a Grammy party in 2014.",
       "details": [
         "Project: Taylor Swift's 1989 (2014)",
         "Jack's contribution: co-wrote 4 songs",
@@ -487,7 +556,7 @@
       "label": "wrote & released",
       "description": "Lorde wrote and released Melodrama in 2017. Took 18 months. Is about a house party. Sure.",
       "details": [
-        "Recorded: July 2015 – January 2017",
+        "Recorded: July 2015 \u2013 January 2017",
         "Released: June 2017",
         "Writing process: \"speed-dating producers\" then Jack",
         "Official theme: solitude, a single house party",
@@ -500,7 +569,7 @@
       "target": "melodrama",
       "relationship": "produced",
       "label": "co-wrote & produced",
-      "description": "Jack co-wrote and produced almost every track on Melodrama. With Antonoff credited on all but one song, his fingerprints were more obvious than Mastermotivation, and notably Reputation — perhaps reflecting the intense bond of which it was born.",
+      "description": "Jack co-wrote and produced almost every track on Melodrama. With Antonoff credited on all but one song, his fingerprints were more obvious than Mastermotivation, and notably Reputation \u2014 perhaps reflecting the intense bond of which it was born.",
       "details": [
         "Credit: on all but one song",
         "Location: his home studio in Brooklyn",
@@ -535,7 +604,7 @@
         "Contribution: apartment, emotional support, dramatic irony",
         "Instagram post: deleted",
         "Awareness: did not know the full picture",
-        "\"Lena's not really an award-winning cook\" — Lorde",
+        "\"Lena's not really an award-winning cook\" \u2014 Lorde",
         "Her cooking: relevant somehow"
       ]
     },
@@ -561,7 +630,11 @@
       "relationship": "contains",
       "label": "track 1",
       "description": "Green Light is the opening track and lead single from Melodrama. The album's \"first chapter.\"",
-      "details": ["Track: 1", "Lead single", "First chapter of the era"]
+      "details": [
+        "Track: 1",
+        "Lead single",
+        "First chapter of the era"
+      ]
     },
     {
       "id": "melodrama-sober",
@@ -570,7 +643,9 @@
       "relationship": "contains",
       "label": "track 3",
       "description": "Sober is track 3 on Melodrama.",
-      "details": ["Track: 3"]
+      "details": [
+        "Track: 3"
+      ]
     },
     {
       "id": "melodrama-the-louvre",
@@ -579,7 +654,9 @@
       "relationship": "contains",
       "label": "track 4",
       "description": "The Louvre is track 4 on Melodrama.",
-      "details": ["Track: 4"]
+      "details": [
+        "Track: 4"
+      ]
     },
     {
       "id": "melodrama-liability",
@@ -588,7 +665,9 @@
       "relationship": "contains",
       "label": "track 5",
       "description": "Liability is track 5 on Melodrama.",
-      "details": ["Track: 5"]
+      "details": [
+        "Track: 5"
+      ]
     },
     {
       "id": "melodrama-hard-feelings",
@@ -597,7 +676,9 @@
       "relationship": "contains",
       "label": "track 6",
       "description": "Hard Feelings/Loveless is track 6 on Melodrama.",
-      "details": ["Track: 6"]
+      "details": [
+        "Track: 6"
+      ]
     },
     {
       "id": "melodrama-writer-dark",
@@ -606,7 +687,9 @@
       "relationship": "contains",
       "label": "track 8",
       "description": "Writer in the Dark is track 8 on Melodrama.",
-      "details": ["Track: 8"]
+      "details": [
+        "Track: 8"
+      ]
     },
     {
       "id": "melodrama-sober-ii",
@@ -615,7 +698,9 @@
       "relationship": "contains",
       "label": "track 9",
       "description": "Sober II (Melodrama) is track 9 on Melodrama.",
-      "details": ["Track: 9"]
+      "details": [
+        "Track: 9"
+      ]
     },
     {
       "id": "green-light-about-lena",
@@ -653,7 +738,7 @@
       "target": "jack",
       "relationship": "suspected about",
       "label": "suspected about",
-      "description": "The Louvre is about an obsessive, consuming love — suspected to be about Jack. \"We banged all summer.\" The summer is Lena's summer away. \"But now she's back and jack is gonna pay.\"",
+      "description": "The Louvre is about an obsessive, consuming love \u2014 suspected to be about Jack. \"We banged all summer.\" The summer is Lena's summer away. \"But now she's back and jack is gonna pay.\"",
       "details": [
         "\"They'll hang us in the Louvre\"",
         "\"We banged all summer\"",
@@ -713,7 +798,7 @@
       "target": "lena",
       "relationship": "references",
       "label": "references",
-      "description": "Written April 2016, around when Lena finished the campaign. Lorde had \"conflicted feelings\" about the song. The song where she wonders what they do when they're sober — i.e., when Lena is back and they can't keep pretending.",
+      "description": "Written April 2016, around when Lena finished the campaign. Lorde had \"conflicted feelings\" about the song. The song where she wonders what they do when they're sober \u2014 i.e., when Lena is back and they can't keep pretending.",
       "details": [
         "Written: April 2016",
         "Lena: back from 18-month campaign around this time",
@@ -744,7 +829,11 @@
       "relationship": "event",
       "label": "first meeting?",
       "description": "Jack may have met Lorde at this Grammy party. The pineapple juice was his doing. The rest is history.",
-      "details": ["Year: 2014", "The pineapple juice origin", "The rest is history"]
+      "details": [
+        "Year: 2014",
+        "The pineapple juice origin",
+        "The rest is history"
+      ]
     },
     {
       "id": "grammy-taylor-event",
@@ -781,7 +870,12 @@
       "relationship": "event",
       "label": "attended",
       "description": "Jack attended Coachella with Lorde in April 2016. Lena was presumably not there. The audacity.",
-      "details": ["Date: April 2016", "With: Lorde", "Lena: not there", "The audacity: confirmed"]
+      "details": [
+        "Date: April 2016",
+        "With: Lorde",
+        "Lena: not there",
+        "The audacity: confirmed"
+      ]
     },
     {
       "id": "coachella-sober-inspired",
@@ -790,7 +884,11 @@
       "relationship": "inspired",
       "label": "inspired",
       "description": "Sober was directly inspired by Lorde and Jack's Coachella trip. The author notes this with a ???. Like LOL.",
-      "details": ["Direct inspiration for Sober", "Also Sober II (Melodrama)", "Author: ???"]
+      "details": [
+        "Direct inspiration for Sober",
+        "Also Sober II (Melodrama)",
+        "Author: ???"
+      ]
     },
     {
       "id": "snl-lorde-event",
@@ -819,6 +917,143 @@
         "Staging: back to back with Lorde",
         "Lena: watched from home (presumably)",
         "Author: I will never get over this"
+      ]
+    },
+    {
+      "id": "lorde-kanye-fans",
+      "source": "lorde",
+      "target": "kanye",
+      "relationship": "mutual fans",
+      "label": "mutual fans",
+      "description": "Lorde and Kanye are mutual fans of each other. This is perhaps the least chaotic relationship in this entire graph.",
+      "details": [
+        "Direction: mutual",
+        "Chaos level: low (for this graph)"
+      ]
+    },
+    {
+      "id": "kanye-taylor-enemy",
+      "source": "kanye",
+      "target": "taylor",
+      "relationship": "one-sided enemy",
+      "label": "hates her (one-sided)",
+      "description": "Kanye hates Taylor Swift. Taylor Swift does not think about Kanye West. Classic one-sided feud energy.",
+      "details": [
+        "Kanye's feelings: hatred",
+        "Taylor's feelings: indifference",
+        "Famous incident: VMA 2009, 'Imma let you finish'",
+        "Direction: entirely one-sided"
+      ]
+    },
+    {
+      "id": "hillary-trump-enemy",
+      "source": "hillary",
+      "target": "trump",
+      "relationship": "mutual enemies",
+      "label": "mutual enemies",
+      "description": "Hillary Clinton and Donald Trump are mutual enemies. They ran against each other in the 2016 presidential election. Trump won, partly thanks to the chaos unfolding in Lena Dunham's Brooklyn apartment.",
+      "details": [
+        "Context: 2016 US presidential election",
+        "Result: Trump won",
+        "Contributing factor: see Lorde, Jack, Lena, pineapple juice"
+      ]
+    },
+    {
+      "id": "lorde-trump-caused",
+      "source": "lorde",
+      "target": "trump",
+      "relationship": "indirectly caused",
+      "label": "indirectly caused presidency",
+      "description": "By living in Lena Dunham's apartment and conducting an emotional affair with Jack Antonoff, Lorde distracted Lena \u2014 who was working on Hillary Clinton's presidential campaign for 18 months. Lena couldn't focus. Hillary lost. Trump won. You're welcome, America.",
+      "details": [
+        "Mechanism: Lorde in apartment \u2192 Lena distracted \u2192 campaign suffered",
+        "Lena's campaign role: 18 months of work",
+        "Outcome: Hillary Clinton lost the 2016 election",
+        "Lorde's awareness of this: unknown",
+        "Presented: without comment"
+      ]
+    },
+    {
+      "id": "jack-trump-caused",
+      "source": "jack",
+      "target": "trump",
+      "relationship": "indirectly caused",
+      "label": "indirectly caused presidency",
+      "description": "By conducting an emotional (and likely physical) affair with Lorde in the apartment he shared with Lena, Jack Antonoff distracted a key Hillary Clinton campaign worker for 18 months. He is partly responsible for the 2016 election result.",
+      "details": [
+        "Mechanism: Jack conducting affair \u2192 Lena distracted \u2192 campaign suffered",
+        "Accountability: shared with Lorde",
+        "Jack's statement on this: none on record"
+      ]
+    },
+    {
+      "id": "lorde-hillary-enemy",
+      "source": "lorde",
+      "target": "hillary",
+      "relationship": "enemies",
+      "label": "sabotaged campaign",
+      "description": "Lorde is an enemy of Hillary Clinton's political ambitions \u2014 through the pineapple juice \u2192 Jack \u2192 apartment \u2192 Lena distraction pipeline, she indirectly sabotaged Clinton's presidential campaign. Whether Lorde knows this is unclear.",
+      "details": [
+        "Mechanism: indirect, via Lena distraction",
+        "Lorde's awareness: presumably none",
+        "Hillary's awareness: also presumably none",
+        "The butterfly effect: pineapple juice \u2192 Trump presidency"
+      ]
+    },
+    {
+      "id": "jack-pineapple-woo",
+      "source": "jack",
+      "target": "pineapple_juice",
+      "relationship": "weapon of seduction",
+      "label": "used to woo Lorde",
+      "description": "Jack Antonoff used a can of pineapple juice to woo Lorde when they first met. He got it for her, she felt immediately at home. The rest is history, Melodrama, and a collapsed relationship.",
+      "details": [
+        "Occasion: first meeting (Grammy party or Grimes show)",
+        "Method: simply fetching pineapple juice",
+        "Effectiveness: 10/10",
+        "Downstream consequences: enormous"
+      ]
+    },
+    {
+      "id": "pineapple-lorde-home",
+      "source": "pineapple_juice",
+      "target": "lorde",
+      "relationship": "made feel at home",
+      "label": "made her feel at home",
+      "description": "When Jack got Lorde a can of pineapple juice at their first meeting, she 'felt like she was home.' One beverage. That's all it took.",
+      "details": [
+        "Lorde's reaction: felt immediately at home",
+        "Jack's strategy: pineapple juice",
+        "Analysis: extremely effective",
+        "Consequence: everything"
+      ]
+    },
+    {
+      "id": "pineapple-lena-enemy",
+      "source": "pineapple_juice",
+      "target": "lena",
+      "relationship": "enemies",
+      "label": "took her relationship",
+      "description": "Pineapple juice is an enemy of Lena Dunham. It was the catalyst that made Lorde feel at home with Jack, setting off the chain of events that ended Jack and Lena's five-year relationship. Lena did not consent to any of this.",
+      "details": [
+        "Pineapple juice's crime: making Lorde feel at home",
+        "Consequence for Lena: lost her five-year relationship",
+        "Lena's feelings about pineapple juice: presumably negative",
+        "Justice: none served"
+      ]
+    },
+    {
+      "id": "lena-trump-enemy",
+      "source": "lena",
+      "target": "trump",
+      "relationship": "mutual enemies",
+      "label": "mutual enemies",
+      "description": "Lena Dunham and Donald Trump are mutual enemies. Lena worked on Hillary Clinton's presidential campaign for 18 months. Trump won anyway \u2014 partly because Lena was too distracted by what was happening in her own apartment to give the campaign her full attention.",
+      "details": [
+        "Lena's role: Clinton campaign worker, 18 months",
+        "Trump's feelings about Lena: mutual dislike",
+        "Irony: Lena contributed to the outcome she most opposed",
+        "Cause: see Jack, Lorde, pineapple juice"
       ]
     }
   ]
